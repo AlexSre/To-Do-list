@@ -1,7 +1,6 @@
 # To-Do-list Application
 
-A simple command-line To-Do List application built in C, allowing users to manage their tasks with ease. This project supports task creation, viewing, marking tasks as completed, deleting tasks, and saving/loading tasks to and from a file. This is an excellent beginner project to practice C programming concepts such as arrays, structures, file handling, and input management.
-
+A simple command-line To-Do List application built in C, allowing users to manage their tasks with ease. This project supports task creation, viewing, marking tasks as completed, deleting tasks, and saving/loading tasks to and from a file. 
 # Features 
 
 Add Task: Create a new task by entering a description.
