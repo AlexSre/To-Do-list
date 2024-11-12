@@ -1,0 +1,3 @@
+/home/asditon99/To-Do-list/cmake-build-debug/CMakeFiles/To_do_List.dir
+/home/asditon99/To-Do-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asditon99/To-Do-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

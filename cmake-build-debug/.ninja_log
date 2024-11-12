@@ -1,0 +1,4 @@
+# ninja log v6
+0	55	1731431649843472605	build.ninja	2ab8bb685ea542f6
+1	318	1731431654131245883	CMakeFiles/To_do_List.dir/main.cpp.o	af918ea106fea2bb
+318	428	1731431654447229175	To_do_List	8d86fb887b33f4b1
